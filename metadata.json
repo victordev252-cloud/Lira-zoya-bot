@@ -1,0 +1,6 @@
+{
+  "name": "HOSTING PRO Enterprise Multi-Runtime Bot & App Platform",
+  "description": "Enterprise cloud hosting platform and Telegram Bot runner supporting Python, Node.js, C++, and polyglot builds with real-time logs, CPU/RAM monitoring, build pipelines, and process management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
